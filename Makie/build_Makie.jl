@@ -6,7 +6,7 @@ using Pkg
 Pkg.activate(@__DIR__)
 
 # pkg = "RTableTools"
-pkg = "GLMakie"
+pkg = "Makie"
 lib = "lib$(pkg)_v202502.dll"
 
 # precompile_execution_file = script
